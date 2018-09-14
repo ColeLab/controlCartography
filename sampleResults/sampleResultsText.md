@@ -6,14 +6,14 @@
 **Fig1_FC.png:** Functional connectivity (FC) estimation. (A) Resting-state functional connectivity (rsFC) across 360 by 360 regions (regional parcellation as in Glasser et al., 2016), ordered per the CA partition, adjusted by resting-state preferences (see Materials and Methods) (color-coded along each matrix edge as in D). Values are discovery-set grand averages. (B) Task-state functional connectivity (tFC) across 360 by 360 brain regions, ordered and estimated as in A (grand averages: n=50 and 64 C-PRO task states). (C) Difference matrix: [tFC – rsFC]. (D) Cortical schematic of the Cole-Anticevic (CA) intrinsic network partition (Spronk et al., 2018), empirically adjusted by the resting-state preferences of the present participants (see Materials and Methods). LH = left hemisphere; RH = right hemisphere. Color-coding scheme of networks and acronyms listed in parentheses are used consistently throughout the present paper.
   - **See this directory:** controlCartography/restTaskFC_Comparisons  
 
-**Fig2_GVC_BVC.png:**  
-  - **See this directory:**  
+**Fig2_GVC_BVC.png:** Variability coefficients GVC and BVC. Means were across n=50 and all C-PRO task states; error bars represent standard error of the mean. Asterisks mark statistically significant t-tests, using the max-T approach (see Methods; 10,000 permutations). (A) Network-mean GVC. (B) Regional-mean GVC. (C) Network-mean BVC. (D) Regional-mean BVC. 
+  - **See this directory:**  controlCartography/networkDiagnosticMetrics  
   
-**Fig3_NF.png:**  
-  - **See this directory:**  
+**Fig3_NF.png:** Network Flexibility. Mean, SEM, and hypothesis testing specifications are the same as in Fig. 4.  (A) Network-wise comparisons (Spearman’s rank order correlation) of GVC and NF sweeped by multilayer modularity parameters, across participants. (B) Same as A, but at the region-wise level. (C) Network-mean NF-standard, where γ=1 and ω=1. (D) Regional-mean NF-standard. (E) Network-mean NF-optimal, where γ=2.5 and ω=0.2 and correlation with GVC was highest. (F) Regional-mean NF-optimal.   
+  - **See this directory:** controlCartography/networkDiagnosticMetrics  
 
-**Fig4_NPD.png:**  
-  - **See this directory:**  
+**Fig4_NPD.png:** Network Partition Deviation (NPD). Mean, SEM, and hypothesis testing specifications were the same is in Figs. 5 & 6. (A) Network-mean NPD. (B) Regional-mean NPD. (C) Network-level affinity profiles. For each intrinsic network (x-axis), adherence (NPA) (or 1-NPD) is depicted as the portion of the bar (connecting network) with the equivalent color. All other colors codify exactly which connecting networks were being preferred (see Table 1 and Methods for computation of NPD) when deviating from the pre-defined partition. That is to say, NPD in (A) is expanded in (C) to show frequency of reassignments, across task states (i.e., affinities). (D) The same as in (C), but the x-axis is depicted at the regional level (i.e., these regional reassignments were averaged to generate C).   
+  - **See this directory:** controlCartography/networkDiagnosticMetrics  
 
- **Fig5_cartography.png:**  
-   - **See this directory:**  
+ **Fig5_cartography.png:** Cognitive control cartographies. (A) Global (between-network) properties graphed along two dimensions. Global variability coefficient (network means, z-scored) across the task-state dimension (GVC-Task; y-axis; as in Fig. 4C) and across the regional dimension (GVC-Region; x-axis; as in Fig. 4C, except variability measured across regions). CCNs (FPN=yellow, CON=plum) are highlighted with dark black outlines. (B)  Local (within-network) integrity and deviation (network means, z-scored). Integrity (y-axis) is the Jaccard similarity coefficient between task-state reassignments (via NPD) and resting-state assignments (i.e., cross-task partitions versus resting-state partition). Deviation (x-axis) was found as in Fig. 6A.  
+   - **See this directory:** controlCartography/cartographicMethod  
