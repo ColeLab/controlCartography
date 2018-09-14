@@ -2,7 +2,7 @@
 **PhD Candidate Qualifying Examination**, Rutgers University Center for Molecular and Behavioral Neuroscience, 2018  
 **Carrisa Cocuzza** (carrisacocuzza@gmail.com), The Cole Lab (http://www.colelab.org/)  
 
-## References for previously developed network diagnostic metrics
+## References for previously developed network metrics
 1. **GVC:** Cole, MW., Reynolds, JR., Power, JD., Repovs, G., Anticevic, A., & Braver, TS. (2013). Multi-task connectivity reveals flexible hubs for adaptive task control. Nature Neuroscience, 16(9), 1348–1355. 
 2. **Related to BVC:** Ito, T., Kulkarni, KR., Schultz, DH., Mill, RD., Chen, RH., Solomyak, LI., & Cole, MW. (2017). Cognitive task information is transferred between brain regions via resting-state network topology. Nature Communications, 8(1), 1027. 
 3. **NF:** Bassett, DS., Wymbs, NF., Porter, MA., Mucha, PJ., Carlson, JM., & Grafton, ST. (2011). Dynamic reconfiguration of human brain networks during learning. Proceedings of the National Academy of Sciences of the United States of America, 108(18), 7641–7646. 
