@@ -27,4 +27,5 @@
 5. **Other network metrics**: see https://sites.google.com/site/bctnet/
 
 ## Supplementary and helper code
-1. **netStruct.m:** uploads (into MATLAB workspace) useful CA partition info needed by other functions (color schemes, node indices, etc.)  
+1. **netStruct.m:** uploads (into MATLAB workspace) useful CA partition info needed by other functions (color schemes, node indices, etc.)
+    - baseDir variable needs to be edited to match your local machine's path info 
