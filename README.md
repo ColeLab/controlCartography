@@ -25,10 +25,6 @@ Ordered by project workflow (e.g., not alphabetical)
 - Contains demo code for diagnosing network-mechanisms of interest. Diagnostic metrics demonstrated include: global variability coefficient (GVC), between-network variability coefficient (BVC), and network flexibility (NF) 
 - See networkDiagnosticMetrics/References.txt for a full reference list associated with each metric (and additional info on public repositories outside of github) 
 
-**Directory:** npdDemos/
-
-- Contains demo code for implementing our novel diagnostic metric, network partition deviation (NPD), as well as follow up analyses related to NPD 
-
 **Directory:** cartographicMethod/
 
 - Contains demo code for implementing our cartographic representation of cognitive control system functioning, vis-a-vis the previously demonstrated analyses and diagnostic metrics 
