@@ -13,7 +13,7 @@
     - Cole, M. W., Reynolds, J. R., Power, J. D., Repovs, G., Anticevic, A., & Braver, T. S. (2013). Multi-task connectivity reveals flexible hubs for adaptive task control. Nature Neuroscience, 16(9), 1348–1355. https://doi.org/10.1038/nn.3470
     - **Further info & source code**: http://www.colelab.org/cole-etal-2013/#analysiscode
     
-2. **Between-network variability coefficient (BVC):** inspired by Cole et al., 2013 (above reference); addresses the concern that within-network connections bias GVC results.
+2. **Between-network variability coefficient (BVC):** inspired by Cole et al., 2013 and Ito et al., 2017; addresses the concern that within-network connections bias GVC results.
     - In the present study's dataset, BVC and GVC were highly comparable, suggesting that within-network connectivity does not overly bias the computation of GVC.
 
 3. **Network flexibility (NF):** originally by Bassett et al., 2011; how often a region changes network (aka module) allegiance (normalized by possible number of network assignment changes) 
@@ -21,4 +21,10 @@
     - Bassett, D. S., Wymbs, N. F., Rombach, M. P., Porter, M. A., Mucha, P. J., & Grafton, S. T. (2013). Task-based core-periphery organization of human brain dynamics. PLoS Computational Biology, 9(9), e1003171. https://doi.org/10.1371/journal.pcbi.1003171
     - **Further info & source formulas**:  www.pnas.org/lookup/suppl/doi:10.1073/pnas.1018985108/-/DCSupplemental
 
-4. **All other metrics**: see https://sites.google.com/site/bctnet/ for source code for all other network metrics utilized in the present study 
+4. **Network partition deviation (NPD):** novel in the present study; uses emprically-adjusted resting-state partition as a reference and assesses how often regions deviate from this pre-defined partition across task states 
+    -**MATLAB code:** npdAlgorithm.m 
+
+5. **Other network metrics**: see https://sites.google.com/site/bctnet/
+
+## Supplementary and helper code
+1. **netStruct.m:** uploadsuseful CA partition info needed by other functions (color schemes, node indices, etc.)  
