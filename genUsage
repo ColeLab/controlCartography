@@ -18,6 +18,4 @@
     - Uses nonparametric permutation testing as well as the Mantel test. 
 3. **Network Diagnostic Metrics**: use FC estimates and the network partition to diagnose variability and flexibility. 
     - See the networkDiagnosticMetrics/README.md for extensive information and source material. 
-4. **Network Partition Deviation**: the novel metric introduced by this study. Using the empirically adjusted resting-state partition as a reference, one may assess how networks deviate during task-evoked states. 
-    - This is also a diagnostic metric, but because it is novel, we decided to dedicate an entire directory to its explication and demonstration. 
-5. **Cognitive Control Cartography**: map out control control mechanisms of putative control networks, vis-a-vis the aforementioned diagnostic metrics. 
+4. **Cognitive Control Cartography**: map out control control mechanisms of putative control networks, vis-a-vis the aforementioned diagnostic metrics. 
