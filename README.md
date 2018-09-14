@@ -23,7 +23,7 @@ Ordered by project workflow (e.g., not alphabetical)
 **Directory:** networkDiagnosticMetrics/
 
 - Contains demo code for diagnosing network-mechanisms of interest. Diagnostic metrics demonstrated include: global variability coefficient (GVC), between-network variability coefficient (BVC), and network flexibility (NF) 
-- See networkDiagnosticMetrics/References.txt for a full reference list associated with each metric (and additional info on public repositories outside of github) 
+- See networkDiagnosticMetrics/References.md for a full reference list associated with each metric (and additional info on public repositories outside of github) 
 
 **Directory:** cartographicMethod/
 
