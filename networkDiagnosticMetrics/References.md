@@ -12,3 +12,5 @@
 
 ## Helpful links
 1.  <a href="https://sites.google.com/site/bctnet/">Brain Connectivity Toolbox: many graph metrics</a>.
+2. <a href="http://netwiki.amath.unc.edu/GenLouvain/GenLouvain">Louvain modularity, NetWiki.</a>.
+
