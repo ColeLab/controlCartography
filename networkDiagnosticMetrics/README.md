@@ -28,4 +28,7 @@
 
 ## Supplementary and helper code
 1. **netStruct.m:** uploads (into MATLAB workspace) useful CA partition info needed by other functions (color schemes, node indices, etc.)
-    - baseDir variable needs to be edited to match your local machine's path info 
+    - baseDir variable needs to be edited to match your local machine's path info  
+
+2. **restPartitionAdjuster.m:** function for adjusting CA partition by empirical resting-state preferences
+    - also see the following directory: /controlCartography/restTaskFC_Comparisons
