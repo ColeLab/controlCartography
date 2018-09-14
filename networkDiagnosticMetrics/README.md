@@ -16,7 +16,6 @@
 2. **Between-network variability coefficient (BVC):** inspired by Cole et al., 2013 and Ito et al., 2017; addresses the concern that within-network connections bias GVC results.
     - In the present study's dataset, BVC and GVC were highly comparable, suggesting that within-network connectivity does not overly bias the computation of GVC.
     - **MATLAB code:** bvcAlgorithm.m
-    - In the present study's dataset, BVC and GVC were highly comparable, suggesting that within-network connectivity does not overly bias the computation of GVC.
 
 3. **Network flexibility (NF):** originally by Bassett et al., 2011; how often a region changes network (aka module) allegiance (normalized by possible number of network assignment changes) 
     - Bassett, D. S., Wymbs, N. F., Porter, M. A., Mucha, P. J., Carlson, J. M., & Grafton, S. T. (2011). Dynamic reconfiguration of human brain networks during learning. Proceedings of the National Academy of Sciences of the United States of America, 108(18), 7641–7646. https://doi.org/10.1073/pnas.1018985108
@@ -24,7 +23,7 @@
     - **Further info & source formulas**:  www.pnas.org/lookup/suppl/doi:10.1073/pnas.1018985108/-/DCSupplemental
 
 4. **Network partition deviation (NPD):** novel in the present study; uses emprically-adjusted resting-state partition as a reference and assesses how often regions deviate from this pre-defined partition across task states  
-    -**MATLAB code:** npdAlgorithm.m 
+    - **MATLAB code:** npdAlgorithm.m 
 
 5. **Other network metrics**: see https://sites.google.com/site/bctnet/
 
