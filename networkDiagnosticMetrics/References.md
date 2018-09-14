@@ -11,6 +11,8 @@
 6. **Multilayer modularity used for NF:** Mucha, PJ., Richardson, T., Macon, K., Porter, MA., & Onnela, JP. (2010). Community structure in time-dependent, multiscale, and multiplex networks. Science, 328(5980). 
 
 ## Helpful links
-1.  <a href="https://sites.google.com/site/bctnet/">Brain Connectivity Toolbox: many graph metrics</a>.
-2. <a href="http://netwiki.amath.unc.edu/GenLouvain/GenLouvain">Louvain modularity, NetWiki.</a>.
+1. <a href="https://sites.google.com/site/bctnet/">Brain Connectivity Toolbox: many graph metrics</a>.
+2. <a href="http://netwiki.amath.unc.edu/GenLouvain/GenLouvain">Louvain modularity, NetWiki</a>.
+3. <a href="http://http://www.colelab.org/cole-etal-2013/#analysiscode">GVC analysis code</a>.
+
 
