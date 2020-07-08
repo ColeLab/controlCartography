@@ -1,8 +1,6 @@
 # controlCartography
 
-**Public code release for:** *A Network Science Cartography of Cognitive Control System Dynamics*
-
-**PhD Candidate Qualifying Examination**, Rutgers University Center for Molecular and Behavioral Neuroscience, 2018
+**Public code release for:** *Flexible coordinator and switcher hubs for adaptive task control*
 
 **Carrisa Cocuzza** (carrisacocuzza@gmail.com), The Cole Lab (http://www.colelab.org/)
 
