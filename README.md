@@ -1,6 +1,6 @@
 # controlCartography
 
-**Public code release for:** *Flexible coordinator and switcher hubs for adaptive task control*
+**Public code release for:** *Flexible coordinator and switcher hubs for adaptive task control* Cocuzza et al., 2020 (In Press). Journal of Neuroscience.
 
 **Carrisa Cocuzza** (carrisacocuzza@gmail.com), The Cole Lab (http://www.colelab.org/)
 
