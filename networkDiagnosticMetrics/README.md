@@ -1,4 +1,4 @@
-**Public code release for:** *Flexible coordinator and switcher hubs for adaptive task control* Cocuzza et al., 2020. Journal of Neuroscience.
+**Public code release for:** *Flexible coordinator and switcher hubs for adaptive task control.* Cocuzza et al., 2020. Journal of Neuroscience.
 **Carrisa Cocuzza** (carrisacocuzza@gmail.com), The Cole Lab (http://www.colelab.org/)  
 
 ## Network diagnostic metrics
