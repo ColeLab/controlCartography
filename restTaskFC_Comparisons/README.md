@@ -1,5 +1,4 @@
-**Public code release for:** A Network Science Cartography of Cognitive Control System Dynamics  
-**PhD Candidate Qualifying Examination**, Rutgers University Center for Molecular and Behavioral Neuroscience, 2018  
+**Public code release for:** *Flexible coordinator and switcher hubs for adaptive task control.* Cocuzza et al., 2020. Journal of Neuroscience.
 **Carrisa Cocuzza** (carrisacocuzza@gmail.com), The Cole Lab (http://www.colelab.org/)  
 
 ## Rest-to-Task Comparisons
